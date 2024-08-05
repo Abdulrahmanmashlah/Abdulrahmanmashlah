@@ -1,9 +1,9 @@
 - 👋 Hello world? I guess?
-- I’m Abdulrahman Mashlah
+- 👀 I am Abdulrahman Mashlah
 - 👀 I’m interested in Linux, DevOps, CI/CD, Kubernetes...etc
 - 🌱 I’m currently learning LPIC-1, Python
 - 💞️ I’m looking to collaborate on Cloud Projects
-- 📫 How to reach me: via email abdulrahmanmachlah@outlook.com
+- 📫 Connect to me via email: abdulrahmanmachlah@outlook.com
 - ⚡ Fun fact: I am totally lazy that I don't know how I even wrote this file :D
 
 <!---
